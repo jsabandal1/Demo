@@ -253,11 +253,14 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &686866221
 =======
 --- !u!1001 &982507966
 >>>>>>> 0eeda082de60d23ff9e3ecb40f27453218af2fe4
 =======
+=======
+>>>>>>> parent of 81a91ff... lets try this
 --- !u!1 &959889501 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 1966643599350220, guid: e2bec83582d34a14bbfe06f984a00535,
@@ -275,6 +278,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &982507966
+<<<<<<< HEAD
+>>>>>>> parent of 81a91ff... lets try this
+=======
 >>>>>>> parent of 81a91ff... lets try this
 Prefab:
   m_ObjectHideFlags: 0

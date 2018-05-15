@@ -25,11 +25,14 @@ GameObject:
   - component: {fileID: 135021312872948794}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 114287766369176336}
   - component: {fileID: 114342925445878698}
 =======
   - component: {fileID: 114675959844445126}
 >>>>>>> 0eeda082de60d23ff9e3ecb40f27453218af2fe4
+=======
+>>>>>>> parent of 81a91ff... lets try this
 =======
 >>>>>>> parent of 81a91ff... lets try this
   m_Layer: 0
@@ -111,6 +114,7 @@ Rigidbody:
   m_CollisionDetection: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &114287766369176336
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -136,6 +140,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c5ef7eac56f5efb4d8b871072337ed08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+>>>>>>> parent of 81a91ff... lets try this
 =======
 >>>>>>> parent of 81a91ff... lets try this
 --- !u!135 &135021312872948794
