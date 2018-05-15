@@ -23,8 +23,12 @@ GameObject:
   - component: {fileID: 23963499786817692}
   - component: {fileID: 54297952709947174}
   - component: {fileID: 135021312872948794}
+<<<<<<< HEAD
   - component: {fileID: 114287766369176336}
   - component: {fileID: 114342925445878698}
+=======
+  - component: {fileID: 114675959844445126}
+>>>>>>> 0eeda082de60d23ff9e3ecb40f27453218af2fe4
   m_Layer: 0
   m_Name: Cube (1)
   m_TagString: Untagged
@@ -94,7 +98,7 @@ Rigidbody:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1966643599350220}
   serializedVersion: 2
-  m_Mass: 1
+  m_Mass: 15
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
@@ -102,6 +106,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+<<<<<<< HEAD
 --- !u!114 &114287766369176336
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -114,6 +119,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &114342925445878698
+=======
+--- !u!114 &114675959844445126
+>>>>>>> 0eeda082de60d23ff9e3ecb40f27453218af2fe4
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
